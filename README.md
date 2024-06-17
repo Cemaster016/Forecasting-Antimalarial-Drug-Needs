@@ -3,7 +3,7 @@
 ---
 ## **Project Overview:**
 
-The JenkinsPremierProject is dedicated to forecasting the demand for antimalarial drugs in Africa, addressing the critical public health challenge posed by malaria, especially among children under the age of five. Accurate demand forecasting is essential for effective resource allocation and strategic planning, ensuring that life-saving treatments are readily available where they are needed most
+The Project is dedicated to forecasting the demand for antimalarial drugs in Africa, addressing the critical public health challenge posed by malaria, especially among children under the age of five. Accurate demand forecasting is essential for effective resource allocation and strategic planning, ensuring that life-saving treatments are readily available where they are needed most
 
 
 ---
@@ -26,7 +26,7 @@ This entails modeling complex variables affecting drug demand, such as seasonal 
   - % of children under age 5 with fever
   ... (& other columns)
 
-    ## **Our Methodology:**
+    ## **Methodology:**
 1. **Data Preprocessing:** Cleaning and preparing the dataset for analysis.
 2. **Feature Engineering:** Creating new features and transforming existing ones.
 3. **Model Selection:** Choosing appropriate machine learning models for prediction.
@@ -45,4 +45,4 @@ This entails modeling complex variables affecting drug demand, such as seasonal 
 ... (other models and their performance metrics)
 
 ## **Conclusion:**
-The JenkinsPremierProject demonstrates the use of machine learning techniques to forecast antimalarial drug needs in Africa. Accurate predictions can help healthcare organizations and policymakers make informed decisions and allocate resources effectively.
+The Project demonstrates the use of machine learning techniques to forecast antimalarial drug needs in Africa. Accurate predictions can help healthcare organizations and policymakers make informed decisions and allocate resources effectively.
